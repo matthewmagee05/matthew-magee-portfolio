@@ -20,7 +20,7 @@ import Contact from '../views/Contact'
 import avatar from '../images/avatar.jpg'
 import brewtodo from '../images/brewtodo.jpeg'
 import rest from '../images/rest.gif'
-import pokemon from '../images/optimized-pokemon.jpg'
+import pokemon from '../images/Optimized-pokemon.jpg'
 import drum from '../images/drum.jpg'
 
 const ProjectsWrapper = styled.div`
